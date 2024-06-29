@@ -1,0 +1,12 @@
+.venv
+.vscode
+__pycache__
+V0_old code_archived_20240619
+V1_app
+V2_app
+venv
+instance
+ReadME.txt
+instructions.txt
+*.pyc
+.DS_Store
